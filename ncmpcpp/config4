@@ -1,0 +1,19 @@
+
+# ncmpcpp color configuration file
+header_window_color = #00A0A9
+volume_color = #58A5A9
+state_flags_color = #03E4D8
+progressbar_color = #21E7DB
+statusbar_color = #7EEBDF
+enabled_color = #9EDBDA
+disabled_color = #b7ede7
+idle_color = #80a5a1
+time_color = #00A0A9
+title_color = #58A5A9
+artist_color = #03E4D8
+song_marked_color = #21E7DB
+song_unmarked_color = #7EEBDF
+playing_color = #9EDBDA
+paused_color = #b7ede7
+stopped_color = #091619
+

@@ -1,0 +1,127 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 64
+time: 0.000000
+random: 1
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Chamber Of Reflection [pQsF3pzOc54].mp3
+1:David Bowie - Modern Love (Official Video) [HivQqTtiHVw].mp3
+2:Fuiste Mía un Verano [cl1fvSV0d-o].mp3
+3:Juanes - Nada Valgo Sin Tu Amor [zWjXipKSjdg].mp3
+4:Elle King - Ex's & Oh's (Official Video) [0uLI6BnVh6w].mp3
+5:Monsieur Periné - Bailar Contigo (Video Oficial) [mT7_qIFBa3Y].mp3
+6:Los Ángeles Azules - Cómo Te Voy A Olvidar (Live) [rXyeKotBFj0].mp3
+7:Los Ángeles Azules - El Listón de Tu Pelo ft. Denise Gutiérrez (Live) [daL7_QWYdkk].mp3
+8:Mix Adolescentes [-u8B4IpOgM8].mp3
+9:♥ Love Is All Around ♥ El Amor Está En Todas Partes~by Wet Wet Wet -subtitulada en inglés y español [ICxn4BUATDc].mp3
+10:38 Special - Second Chance (Official Music Video) [cRkaPdfjzEk].mp3
+11:'City of Stars' (Duet ft. Ryan Gosling, Emma Stone) - La La Land Original Motion Picture Soundtrack [GTWqwSNQCcg].mp3
+12:A$AP Rocky - Everyday (Official Video) ft. Rod Stewart, Miguel, Mark Ronson [KfVIRigPyws].mp3
+13:Aerosmith - Amazing (Official Music Video) [zSmOvYzSeaQ].mp3
+14:arctic monkeys - 505 (cover) ｜ nursena yener [f8eI_WU_7qA].mp3
+15:Britney Spears - From The Bottom Of My Broken Heart (Official HD Video) [fHPnGqXXUmI].mp3
+16:Britney Spears - If U Seek Amy (Official HD Video) [0aEnnH6t8Ts].mp3
+17:Chayanne - Cuidarte El Alma (Audio) [FEkVpL_6yKo].mp3
+18:Nano Morris - Mi Amor Te Espero (Video Oficial) [nZD2lhjrie8].mp3
+19:Río Roma - Por Eso Te Amo (Reempaque (Videoclip)) [9jirj0OjI-M].mp3
+20:Space Oddity [KaOC9danxNo].mp3
+21:Stromae - Alors on danse (Official Video) [VHoT4N43jK8].mp3
+22:Tame Impala - The Less I Know The Better (Audio) [2SUwOgmvzK4].mp3
+23:The Animals - House of the Rising Sun (1964) HQ⧸Widescreen ♫ 60 YEARS 🎶⭐ ❤ [4-43lLKaqBQ].mp3
+24:The Rolling Stones - Paint It, Black (Official Lyric Video) [O4irXQhgMqg].mp3
+25:The Starting Line [LHf1bvIKpP0].mp3
+26:The Wallflowers - One Headlight (Official Music Video) [Zzyfcys1aLM].mp3
+27:R.E.M. - Everybody Hurts (Official HD Music Video) [5rOiW_xY-kc].mp3
+28:R.E.M. - Losing My Religion (Official HD Music Video) [xwtdhWltSIg].mp3
+29:Red Hot Chili Peppers - The Drummer (Official Music Video) [aP-oFkZknS4].mp3
+30:No Roots [pLboIWaEYjg].mp3
+31:Of Monsters And Men - Slow Life (Official Lyric Video) [XeZRJbB3_00].mp3
+32:Boney M. - Ma Baker (Sopot Festival 1979) [9c5yPIQ3LQI].mp3
+33:Nirvana - Smells Like Teen Spirit (Official Music Video) [hTWKbfoikeg].mp3
+34:Avril Lavigne - Complicated (Official Video) [5NPBIwQyPWE].mp3
+35:Amy Macdonald - Poison Prince (Official Video) [FhDTVq8C-Yc].mp3
+36:Bend & Break [sk1WgZFrzUM].mp3
+37:Ногу Свело! - Наши юные смешные голоса [rUzBpj0A02U].mp3
+38:ДДТ - Песня о свободе (Live in Essen) [bQcaFbGPVVk].mp3
+39:Ángel - Elefante (letra) [HBV5jM0CGAc].mp3
+40:As The World Caves In - Matt Maltese (Cover by Sarah Cothran) [SqDjQPoJxiw].mp3
+41:Badfinger - Baby Blue (Breaking Bad Soundtrack) (HQ) 1080p [R95f7VwXqIw].mp3
+42:Belanova - Rosa Pastel [bUkJLkoh3kA].mp3
+43:КИНО ｜ КУКУШКА [vM2O-weQuEA].mp3
+44:ДДТ - Что такое осень (Official video) [5KC-iscJtsI].mp3
+45:Britney Spears - ...Baby One More Time (Official Video) [C-u5WLJ9Yk4].mp3
+46:Britney Spears - (You Drive Me) Crazy (Official HD Video) [Q4VK9_CfOLQ].mp3
+47:Britney Spears - Overprotected (Official Video) [PZYSiWHW8V0].mp3
+48:Keane - Somewhere Only We Know (Official Music Video) [Oextk-If8HQ].mp3
+49:Adele - Rolling in the Deep (Official Music Video) [rYEDA3JcQqw].mp3
+50:Gian Marco - Tú No Te Imaginas [gmMqnjvSsi8].mp3
+51:Something In Me Was Dying [fBOz1Amw4aM].mp3
+52:Amy Macdonald - Dream On (Official Video) [lcklCAsUCQM].mp3
+53:¿Dónde Están Los Ladrones？ - Shakira - Alvinsch cover [50L5bIO5f8c].mp3
+54:Somebody New [HPusLktqTZg].mp3
+55:Tom Chaplin - Quicksand [W8W8IBS2fVg].mp3
+56:Toploader - Dancing in the Moonlight (Official Video) [0yBnIUX0QAE].mp3
+57:Zoé - Labios Rotos (MTV Unplugged) [7h2ryr_uUEs].mp3
+58:Zoé - Soñé (MTV Unplugged) [HJqlA_HTEU8].mp3
+59:Enamorado tuyo [R5cbxTPZNL0].mp3
+60:Give It All Up [usJMzqGQ1gM].mp3
+61:Keane - Perfect Symmetry (Official Music Video) [gRLv6zvyE48].mp3
+62:Keane - Perfect Symmetry (SUBTITULADO ESPAÑOL) [aoBq4dZgVFI].mp3
+63:Amy Macdonald - L.A. [cE1PNtDa6aE].mp3
+64:Pablito Ruiz ＂Malagueña＂ Siempre En Domingo [fQvAXVdbwIw].mp3
+65:Nadie Como Ella [S1rCziOoRig].mp3
+66:Héroes del Silencio - Entre dos tierras (videoclip oficial) [SzimletXB7M].mp3
+67:DLG (Dark Latin Groove) - La Quiero A Morir (Video) [wCBu0PkoNPs].mp3
+68:Dua Lipa - Be The One (Official Video) [mgI_pH8TOVY].mp3
+69:Daryl Hall & John Oates - Maneater (Official Video) [yRYFKcMa_Ek].mp3
+70:505 [qU9mHegkTc4].mp3
+71:Black Pumas - Colors (Official Live Session) [0G383538qzQ].mp3
+72:Deixa Acontecer [UaNt_bOSltM].mp3
+73:Habits - Tove Lo - PostmodernJukebox version - COVER [3N4hD86RjeM].mp3
+74:Human Spirit [tKZqnPgIQgM].mp3
+75:CLIO - T'as vu [CLIP OFFICIEL] [9enP5t05wFU].mp3
+76:Frank Sinatra ： Come Dance With Me [h0EPnvFRTEs].mp3
+77:Keane - Disconnected (Lyrics) [hWtVdrkmTSQ].mp3
+78:Amy Macdonald - Your Time Will Come (Official Video) [dSMhbb_OJ9U].mp3
+79:Amy Macdonald - Youth Of Today [dU02tyBAp4A].mp3
+80:Creep - Vintage Postmodern Jukebox Radiohead Cover ft. Haley Reinhart [m3lF2qEA2cw].mp3
+81:Crystal Ball [jDmuj0TmVOo].mp3
+82:Troubled Soul [JS0exl40g6I].mp3
+83:Bonnie Tyler - Holding Out For A Hero (Official HD Video) [bWcASV2sey0].mp3
+84:Carla Morrison - Disfruto Live Performance 2021 (U2： The Virtual Road) [P0P4vvQU0cs].mp3
+85:George Michael - Careless Whisper (Official Video) [izGwDsrQ1eQ].mp3
+86:INVENTORS - Nadie Sabe Dónde Estás [HYBRID version] (Videolyric oficial ) [MbEJH8jN_t0].mp3
+87:Juanes - Me Enamora (Official Music Video) [voxgN3Dhjuo].mp3
+88:Keane - Bend & Break (Official Music Video) [50LOhILlLMQ].mp3
+89:Keane - Thread (Audio) [-flHIFxELI0].mp3
+90:La Oreja de Van Gogh - Europa VII (Vídeo Oficial) [mNbF4N3_xgI].mp3
+91:Matt Maltese - As the World Caves In [Official Music Video] [SwXseZSjLsw].mp3
+92:Meghan Trainor - Made You Look (Official Music Video) [gPCCYMeXin0].mp3
+93:Murió La Flor [ImTQz8zoEgU].mp3
+94:Amy Macdonald - Woman Of The World [tIrJJunDfyw].mp3
+95:Amy Macdonald - This Time’s Everything (Lyric Video) [ZnjF8GTFexU].mp3
+96:Amy Macdonald - This Pretty Face (Official Video) [Ph7-BeEQW4Y].mp3
+97:Amy Macdonald - This is the Life [iRYvuS9OxdA].mp3
+98:Amy Macdonald - The Hudson (Official Video) [N26S2beV1I8].mp3
+99:Amy Macdonald - Strong Again (Official Audio) [OnmDApKH04c].mp3
+100:Amy Macdonald - Spark (Official Video) [huMThY0mCiA].mp3
+101:Amy Macdonald - Somewhere In My Heart [Aztec Camera Cover] (Live from Glasgow) Sing #WithMe [qW8EW0XATII].mp3
+102:Amy Macdonald - Something In Nothing (Official Audio) [dXOlvpGoX8w].mp3
+103:Amy Macdonald - Pride (Official Video) [pTvAiMkj4QU].mp3
+104:Amy Macdonald - Mr Rock & Roll (Official Video) [_nkJgw0dvOk].mp3
+105:Amy Macdonald - Love Love (Official Video) [Xi557TMssE8].mp3
+106:Amy Macdonald - Down By The Water (Official Video) [eh6mrl8fpjA].mp3
+107:Amy Macdonald - Don't Tell Me That It's Over (Official Video) [oL4iDuzOCUM].mp3
+108:Amy Macdonald - Crazy Shade of Blue (Official Video) [VC57-Snor5M].mp3
+109:Amy Macdonald - Bridges (Official Lyric Video) [D_xTYHMIT1k].mp3
+110:Amy Macdonald - Automatic (Official Video) [q2wJm8o43w4].mp3
+111:Amy Macdonald - 4th Of July (Official Video) [b3vls4kuKx8].mp3
+playlist_end
